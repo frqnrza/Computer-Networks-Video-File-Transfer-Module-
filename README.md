@@ -125,8 +125,7 @@ The sender GUI will open, allowing you to :
 * For testing over a network, ensure both machines are on the same network, and use the receiver's actual IP address (e.g., 192.168.x.x).
 
 # <p align="center"> Error Handling:
-
-* If the GUI displays errors like "Socket creation failed!" or "Connection failed!":
+If the GUI displays errors like "Socket creation failed!" or "Connection failed!":
 * Check if the receiver is running.
 * Verify the network connection and IP address.
 
