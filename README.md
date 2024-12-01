@@ -71,28 +71,21 @@ The sender GUI will open, allowing you to :
 
 ### Sender GUI : 
 
-**File Selection :**
-* Provides a dropdown to select the file to send.
+1. **File Selection :** Provides a dropdown to select the file to send.
 
-**Transfer Progress :**
-* Displays a progress bar and percentage below it.
+2. **Transfer Progress :** Displays a progress bar and percentage below it.
 
-**Feedback :**
-* Status updates like "Sending file..." or "File sent successfully!"
+3. **Feedback :** Status updates like "Sending file..." or "File sent successfully!"
 
 ### Receiver GUI : 
 
-**Listening for File :**
-* Status label shows "Waiting for sender...".
+1. **Listening for File :** Status label shows "Waiting for sender...".
 
-**Progress Tracking:**
-* Dynamically updated progress bar and percentage.
+2. **Progress Tracking:** Dynamically updated progress bar and percentage.
 
-**Save Path Selection:**
-* File chooser allows the user to select where to save the file after it is received.
+3. **Save Path Selection:** File chooser allows the user to select where to save the file after it is received.
 
-**Feedback:**
-* Status updates like "Receiving file..." or "Video received successfully!".
+4. **Feedback:** Status updates like "Receiving file..." or "Video received successfully!".
 
 # <p align="center"> Code Overview :  
 
